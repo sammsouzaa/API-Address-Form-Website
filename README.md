@@ -14,8 +14,10 @@ The website is built using HTML, CSS, and JavaScript. The JavaScript code makes 
 To view the website, simply [click here](https://sammsouzaa.github.io/API-Address-Form-Website/). Alternatively, you can clone the repository and open the `index.html` file in your preferred web browser.
 
 
+<!--
 ## Screenshots
-Include screenshots of the form website, showcasing the dynamic address filling feature.
+Include screenshots of the app interface, demonstrating the gameplay and user interactions.
+-->
 
 ## Credits
 - Author: Samuel Moreira de Souza
